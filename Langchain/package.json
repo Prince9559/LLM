@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "@langchain/core": "^1.2.10",
+    "@langchain/google-genai": "^2.3.1",
     "@langchain/openai": "^1.5.12",
-    "init": "^0.1.2"
+    "dotenv": "^17.4.2",
+    "init": "^0.1.2",
+    "langchain": "^1.5.11"
   }
 }
